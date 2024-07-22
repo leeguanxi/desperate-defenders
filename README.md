@@ -1,1 +1,4 @@
-Hi, this is a tower defense game written in python :)
+# Desperate Defenders
+PRG1 Assignment
+
+Don't plagarise.
